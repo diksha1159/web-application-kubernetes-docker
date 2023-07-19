@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: hello-world-app
-          image: hello-world-app
+          image: diksha1159/hello-world-app:latest
           ports:
             - containerPort: 3000
